@@ -1,0 +1,15 @@
+# Translation Comparison Tool - Dependencies
+# 翻譯比較工具 - 依賴套件
+
+# Core translation libraries
+deep-translator>=1.11.4
+mistralai>=1.0.0
+
+# Web interface
+gradio>=4.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Note: No API key needed for Google Translate (deep-translator)
+# 注意：Google 翻譯（deep-translator）不需要 API 金鑰
